@@ -1,1 +1,2 @@
-# 2-2Gamejam
+# Blazing Fingers
+The best wasd tapping game around
