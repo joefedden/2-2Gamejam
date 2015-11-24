@@ -78,4 +78,4 @@ while not done:
     showScore = font.render("Score: " + str(score), 1, (255, 255, 255))
     screen.blit(showScore, (100,100))
     pygame.display.flip()
-    clock.tick(fps)
+    clock.tick(fps) 
